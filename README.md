@@ -1,4 +1,4 @@
-Thank you for sharing the details! Here’s a tailored README file for your **Connectly** backend project:
+
 
 ---
 
